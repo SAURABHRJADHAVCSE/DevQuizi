@@ -1,0 +1,5 @@
+We have developed an Android-based Quiz application is mainly
+required by students and learners to increase knowledge about diffrent 
+programming language directly through Smart-Phones.The main aim of this App is to 
+facilitate students in learning, gaining and improving their knowledge
+about programming. 
